@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1, h2 {
+    color: gold;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 3px solid gold;
+}
+
+nav {
+    background-color: #222;
+    padding: 15px;
+}
+
+nav a {
+    color: gold;
+    text-decoration: none;
+    margin: 10px;
+}
+
+section {
+    padding: 30px 15px;
+    margin: 20px 0;
+    border-bottom: 1px solid gold;
+}
+
+button {
+    background-color: gold;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.social-links {
+    margin: 15px;
+}
+
+.social-links a {
+    background-color: deeppink;
+    color: white;
+    padding: 12px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.social-links a[href*="youtube"] {
+    background-color: red;
+}
+
+footer {
+    background-color: #222;
+    color: gold;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+@media (max-width: 600px) {
+    nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    img {
+        max-width: 90%;
+    }
+}
