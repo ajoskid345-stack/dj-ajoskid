@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ajoskid345-stack.github.io/dj-ajoskid/sitemap.xml
