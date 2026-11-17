@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - DJ Ajoskid</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <h1>Privacy Policy</h1>
+
+    <p>Welcome to the official DJ Ajoskid website.</p>
+
+    <h2>Information We Collect</h2>
+    <p>We may collect information that visitors voluntarily provide when contacting us through WhatsApp or other communication channels.</p>
+
+    <h2>Cookies</h2>
+    <p>This website may use cookies and similar technologies to improve the browsing experience and support advertising services.</p>
+
+    <h2>Google AdSense</h2>
+    <p>This website may use Google AdSense to display advertisements. Google and its partners may use cookies or similar technologies to show relevant advertisements.</p>
+
+    <h2>Third-Party Websites</h2>
+    <p>Our website may contain links to third-party services such as Mixcloud, YouTube, TikTok and WhatsApp. Their privacy practices are governed by their own policies.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have questions about this Privacy Policy, you can contact DJ Ajoskid through our WhatsApp contact link.</p>
+
+    <p>Last updated: November 2026</p>
+
+    <a href="index.html">Back to Home</a>
+
+</body>
+</html>
